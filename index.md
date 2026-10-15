@@ -14,8 +14,4 @@ This page was written in Markdown and published through GitHub Pages.
 
 ## From KM
 
-This line was added locally on KM.
-
-Testing GitHub Pages from kobo3  2026-10-15. 
-
 [About]({{ '/about/' | relative_url }})
