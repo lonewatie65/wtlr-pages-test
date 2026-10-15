@@ -1,33 +1,26 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 body {
+  margin: 0;
   background-color: #F5F1E8;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
 }
 
-/* Hide the default Jekyll header */
-header {
-  display: none;
-}
-/* Hide the default theme footer */
-footer {
-  display: none;
-}
-/* Hide GitHub theme footer */
-footer {
-  display: none;
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 24px;
 }
 
-/* Remove theme divider lines */
-header,
-section,
-footer {
-  border: none;
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
-/* Reduce empty space above page content */
-section {
-  padding-top: 0;
+a {
+  color: #267CB9;
 }
