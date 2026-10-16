@@ -22,8 +22,6 @@ After refueling at Teterboro Airport in New Jersey my good friend Chris announce
 
 Make a coffee or a tea or whatever your poison is (mine is an occasional bourbon here and there) and have a look around.
 
-testing the ios app
-
 <p class="mission">Mission <code>TOP SECRET</code> - <strong>destination unknown.</strong></p>
 
 </div>
