@@ -5,7 +5,7 @@ title: What the Light Remembers
 
 <div class="home" markdown="1">
 
-![The Old Chief]({{ '/images/IMG_0130.jpeg' | relative_url }})
+![The Old Chief]({{ '/images/Army Times/IMG_0130.jpeg' | relative_url }})
 
 `2026-10-09`  
 `0820`
